@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ServerMonitor.Api.Web</name>
+    </assembly>
+    <members>
+        <member name="T:ServerMonitor.Api.Web.Controllers.ValuesController">
+            <summary>
+            Controller that obtains Values from the bacckend
+            </summary>
+        </member>
+        <member name="F:ServerMonitor.Api.Web.Controllers.ValuesController.logger">
+            <summary>
+            Holds the logger
+            </summary>
+        </member>
+        <member name="M:ServerMonitor.Api.Web.Controllers.ValuesController.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:ServerMonitor.Api.Web.Controllers.ValuesController"/> class
+            </summary>
+        </member>
+        <member name="M:ServerMonitor.Api.Web.Controllers.ValuesController.Get">
+            <summary>
+            Gets the Values
+            </summary>
+            <returns>The list of values</returns>
+        </member>
+        <member name="M:ServerMonitor.Api.Web.Controllers.ValuesController.Get(System.Int32)">
+            <summary>
+            Gets a value by its unique identifier
+            </summary>
+            <param name="id">Value's unique identifier</param>
+            <returns>The value</returns>
+        </member>
+        <member name="M:ServerMonitor.Api.Web.Controllers.ValuesController.Post(System.String)">
+            <summary>
+            Inserts a value
+            </summary>
+            <param name="value">Value to insert</param>
+        </member>
+        <member name="M:ServerMonitor.Api.Web.Controllers.ValuesController.Put(System.Int32,System.String)">
+            <summary>
+            Updates an existing value
+            </summary>
+            <param name="id">Unique identifier of the value</param>
+            <param name="value">Value to update</param>
+        </member>
+        <member name="M:ServerMonitor.Api.Web.Controllers.ValuesController.Delete(System.Int32)">
+            <summary>
+            Deletes a value
+            </summary>
+            <param name="id">Unique identifier of the value to delete</param>
+        </member>
+        <member name="T:ServerMonitor.Api.Web.Program">
+            <summary>
+            Main entry of the program
+            </summary>
+        </member>
+        <member name="M:ServerMonitor.Api.Web.Program.Main(System.String[])">
+            <summary>
+            Initializes a new instance of the <seee cref="T:ServerMonitor.Api.Web.Program"/> class
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="M:ServerMonitor.Api.Web.Program.BuildWebHost(System.String[])">
+            <summary>
+            Prepares the Web Host to answer requests
+            </summary>
+            <param name="args">Arguments provided in the command line</param>
+            <returns>The web host ready to rumble</returns>
+        </member>
+    </members>
+</doc>

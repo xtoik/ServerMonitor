@@ -1,0 +1,12 @@
+/home/xtoik/DEV/ServerMonitor/ServerMonitor.Api.Web/bin/Debug/netcoreapp2.0/ServerMonitor.Api.Web.deps.json
+/home/xtoik/DEV/ServerMonitor/ServerMonitor.Api.Web/bin/Debug/netcoreapp2.0/ServerMonitor.Api.Web.runtimeconfig.json
+/home/xtoik/DEV/ServerMonitor/ServerMonitor.Api.Web/bin/Debug/netcoreapp2.0/ServerMonitor.Api.Web.runtimeconfig.dev.json
+/home/xtoik/DEV/ServerMonitor/ServerMonitor.Api.Web/bin/Debug/netcoreapp2.0/ServerMonitor.Api.Web.dll
+/home/xtoik/DEV/ServerMonitor/ServerMonitor.Api.Web/bin/Debug/netcoreapp2.0/ServerMonitor.Api.Web.pdb
+/home/xtoik/DEV/ServerMonitor/ServerMonitor.Api.Web/obj/Debug/netcoreapp2.0/ServerMonitor.Api.Web.csproj.CoreCompileInputs.cache
+/home/xtoik/DEV/ServerMonitor/ServerMonitor.Api.Web/obj/Debug/netcoreapp2.0/ServerMonitor.Api.Web.AssemblyInfoInputs.cache
+/home/xtoik/DEV/ServerMonitor/ServerMonitor.Api.Web/obj/Debug/netcoreapp2.0/ServerMonitor.Api.Web.AssemblyInfo.cs
+/home/xtoik/DEV/ServerMonitor/ServerMonitor.Api.Web/obj/Debug/netcoreapp2.0/ServerMonitor.Api.Web.dll
+/home/xtoik/DEV/ServerMonitor/ServerMonitor.Api.Web/obj/Debug/netcoreapp2.0/ServerMonitor.Api.Web.pdb
+/home/xtoik/DEV/ServerMonitor/ServerMonitor.Api.Web/bin/Debug/netcoreapp2.0/ServerMonitor.Api.Web.xml
+/home/xtoik/DEV/ServerMonitor/ServerMonitor.Api.Web/obj/Debug/netcoreapp2.0/ServerMonitor.Api.Web.xml
